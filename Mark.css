@@ -1,0 +1,61 @@
+
+body{
+    overflow: hidden;
+}
+.Search-Image{
+    width: 73px;
+    height: 30px;
+    padding-left: 41px;
+}
+.Mart-Image{
+    width: 40px;
+    height: 27px;
+    padding-left: 10px;
+}
+.Contact-Image{
+    padding-left: 17px;
+}
+
+.tex{
+    margin-left: 11px;
+    font-weight:bold;
+}
+.Sf-Text{
+     font-weight: bold;
+}
+.St-Text{
+    font-weight: bold;
+    padding-left: 20px;
+}
+
+/* @media (max-width: 1476px){
+    span{
+        display: none;
+    }
+} */
+li{
+    background-color: red;
+}
+.C-Right{
+    background-color: #FEFAF9;
+}
+.Gift-Text{
+    padding-top: 13rem;
+    padding-left: 58px;
+    font-size: 4vw;
+    color: #000000;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+}
+C-Left{
+   color: #FEFAF9; 
+   height: 20px;
+}
+section{
+    background-color:#FEFAF9;
+}
+@media
+.Shop-Text{
+    font-size: 1.2vw;
+}
